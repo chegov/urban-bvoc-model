@@ -1,0 +1,17 @@
+y,x,pft
+0,0,deciduous_broadleaf
+0,1,deciduous_broadleaf
+0,2,evergreen_broadleaf
+0,3,grass
+1,0,conifer
+1,1,deciduous_broadleaf
+1,2,deciduous_broadleaf
+1,3,grass
+2,0,grass
+2,1,deciduous_broadleaf
+2,2,evergreen_broadleaf
+2,3,grass
+3,0,grass
+3,1,grass
+3,2,deciduous_broadleaf
+3,3,conifer
