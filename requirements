@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+xarray>=2023.8
+rasterio>=1.3
+geopandas>=0.13
+netCDF4>=1.6
+dask[array]>=2023.2
+matplotlib>=3.6
+scipy>=1.10
+pytest>=7.0
