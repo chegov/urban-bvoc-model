@@ -1,3 +1,4 @@
+"""
 io_utils.py
 
 轻量级输入/输出：CSV 气象、简单栅格（使用 numpy/rasterio 生成/读取）和 NetCDF 输出。
